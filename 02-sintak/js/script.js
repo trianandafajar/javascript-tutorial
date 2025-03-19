@@ -15,5 +15,5 @@ console.log("Hello World");
 let format = true;
 
 if (format) {
-  console.log("COntoh Saja");
+  console.log("Hello World!!");
 }
