@@ -15,6 +15,6 @@
 
 const angka = 5;
 
-angka = 2;
+angka = 3;
 
 console.log(angka);
